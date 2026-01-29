@@ -1,5 +1,5 @@
 const axios = require('axios');
-const API = 'http://localhost:3000/api';
+const API = 'https://opd-token-engine-gq1z.onrender.com/api';
 
 // 1. Patients & Priorities
 const allPatients = ["Meera Sharma", "Vikas Singh", "Chatwik Suresh", "Dhanush Reddy", "Iline Patrick", "Rishi Joshi", "Arnav Singh", "Mahir Kashyap", "Ivan Denmark", "Juli", "Kevin Hart", "Leo Das"];
