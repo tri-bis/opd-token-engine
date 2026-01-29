@@ -1,3 +1,4 @@
+**Live Deployment:** [Click Here to Test API](https://opd-token-engine-gq1z.onrender.com)
 # OPD Token Engine (Backend Service)
 
 A RESTful API for handling OPD (Outpatient Department) appointments with elastic capacity management. The system is designed to handle real-world scenarios such as doctor delays, patient cancellations, and high-priority emergency overrides.
