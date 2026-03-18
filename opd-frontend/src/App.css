@@ -1,0 +1,12 @@
+tr {
+  transition: all 0.3s ease;
+}
+
+.text-decoration-line-through {
+  opacity: 0.6;
+}
+
+.badge {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
